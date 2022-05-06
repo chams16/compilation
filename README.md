@@ -1,8 +1,7 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBhx69Jy4hBY57j5dcY4Vt69tmvp7R5FDzw&usqp=CAU" alt="coding mood" align="center" width="400px">
 <h1 align="center">Theoretical Compilation and Languages ...</h1>
 <h3 align="center">this project is a capstone for a semester in Theoretical Compilation and Languages ...</h3>
 <br/>
- <img src="https://image.shutterstock.com/z/stock-vector-young-man-programmer-working-on-computer-with-code-on-screen-student-programming-vector-concept-741320251.jpg" alt="coding mood" align="right" width="400px">
+<!--  <img src="https://image.shutterstock.com/z/stock-vector-young-man-programmer-working-on-computer-with-code-on-screen-student-programming-vector-concept-741320251.jpg" alt="coding mood" align="right" width="400px"> -->
 
 <h2>- 💬 OBJ : </h2>
 
