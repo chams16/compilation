@@ -6,7 +6,7 @@
 <h2>** 💬 OBJ : </h2>
 
 
-<h3>- 📄 determinization of the automate</h3></br>
+<h3>       - 📄 determinization of the automate</h3></br>
 
 
 <h2> ** 💬 Technologies : </h2>
