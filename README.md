@@ -8,13 +8,13 @@
 
 <h3>- 📄 determinization of the automate</h3>
 
-<h2>- 💬 Technologies : </h2>
+        <h2>- 💬 Technologies : </h2></br>
 
 
 <h3>- 📄 This project is made with : </h3>
-    - Python
-    - Tkinter
-    - graphviz
+    <h2>- Python</h2></br>
+    <h2>- Tkinter</h2></br>
+    <h2>- graphviz</h2></br>
 
 <h3 align="left">The UI :</h3>
 <br/>
