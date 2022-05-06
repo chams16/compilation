@@ -6,14 +6,14 @@
 <h2>** 💬 OBJ : </h2>
 
 
-                      - 📄 determinization of the automate</br>
+                      - 📄 determinization of the automate
 
 
 <h2> ** 💬 Technologies : </h2>
 
-                      - 📄 This project is made with : </br>
-                           -- Python/br>
-                           -- Tkinter</br>
+                      - 📄 This project is made with : 
+                           -- Python
+                           -- Tkinter
                            -- graphviz
 
 <h2 align="left">The UI :</h2>
